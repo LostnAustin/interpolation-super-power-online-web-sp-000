@@ -10,4 +10,4 @@ def display_rainbow(colors)
   puts "#{colors[6]}"
 end
 
-display_rainbow()
+display_rainbow
