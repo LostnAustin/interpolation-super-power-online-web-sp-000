@@ -3,7 +3,7 @@
 def display_rainbow(colors)
     colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
-puts ""
+s
 
 
   puts "#{colors[0]}"
