@@ -1,4 +1,4 @@
-require_relative "../display_rainbow.rb"
+
 
 describe '#display_rainbow' do
   it 'accepts one argument' do
