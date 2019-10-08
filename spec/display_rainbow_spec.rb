@@ -1,4 +1,4 @@
-require "./lib/display_rainbow.rb"
+require "./lib/display_rainbow"
 
 describe '#display_rainbow' do
   it 'accepts one argument' do
